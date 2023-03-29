@@ -1,5 +1,5 @@
 # Face Recognition With Python
-This project includes comments by line.
+This project includes comments by line. (Spanish language)
 
 ## Libraries
 || OpenCV ||
