@@ -1,6 +1,9 @@
 # Face Recognition With Python
 This project includes comments by line. (Spanish language)
 
+Teamwork:
+José Hernández & Omar Muñoz
+
 ## Libraries
 || OpenCV ||
 || Numpy ||
